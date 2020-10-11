@@ -1,5 +1,15 @@
->“The sky above the port was the colour of television, tuned to a dead channel.”
->[![Me](neuromancer.jpg)](https://en.wikipedia.org/wiki/Neuromancer)
+```Leet
+Geek 15 4 mindset,  
+Cyberpunk 15 7h47 0f Soul...   
+0f 4 world  w17h0u7 limits 02 boundaries !!  
+50m3 call 17 UTOPIA, 1 myself call 17 REALITY.
+```
+<p align="center">
+  <img src="Neuromancer?raw=true" />
+<em>“The sky above the port was the colour of television, tuned to a dead channel.” - "<a href="https://en.wikipedia.org/wiki/Neuromancer">William Gibson</a>" (1984).</em>
+</p>
+
+
 <!--
 **makramjandar/makramjandar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
