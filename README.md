@@ -1,5 +1,5 @@
-### Hi there 👋
-[![Me](neuromancer.jpg)](https://en.wikipedia.org/wiki/Neuromancer)
+>“The sky above the port was the colour of television, tuned to a dead channel.”
+>[![Me](neuromancer.jpg)](https://en.wikipedia.org/wiki/Neuromancer)
 <!--
 **makramjandar/makramjandar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
