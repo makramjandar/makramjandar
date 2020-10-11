@@ -9,6 +9,8 @@ Cyberpunk 15 7h47 0f Soul...
 <em>“The sky above the port was the colour of television, tuned to a dead channel.” - "<a href="https://en.wikipedia.org/wiki/Neuromancer">William Gibson</a>" (1984).</em>
 </p>
 
+
+
 <!--
 **makramjandar/makramjandar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,4 +24,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+> “Tell me how you read and I'll tell you who you are.”
+### My All-Time Favourite SF Books
+- Neuromancer - William Gibson
+- The Quantum Thief - Hannu Rajaniemi
+- 
 -->
