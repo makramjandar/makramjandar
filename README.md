@@ -1,4 +1,4 @@
-<p align="right">
+<p align="left">
   <img width="200" height="20" src="1-geek-is-a-mindset.gif" /><br>
   <img width="250" height="25" src="2-cyberpunk-is-that-of-soul.gif" /><br>
   <img width="300" height="30" src="3-of-a-world-without-limits-or-boundaries.gif" /><br>
