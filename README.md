@@ -1,14 +1,14 @@
-```Leet
-Geek 15 4 mindset,  
-Cyberpunk 15 7h47 0f Soul...   
-0f 4 world  w17h0u7 limits 02 boundaries !!  
-50m3 call 17 UTOPIA, 1 myself call 17 REALITY.
-```
+<p align="right">
+  <img src="1-geek-is-a-mindset.gif" /><br>
+  <img src="2-cyberpunk-is-that-of-soul.gif" /><br>
+  <img src="3-of-a-world-without-limits-or-boundaries.gif" /><br>
+   <img src="4-some-call-it-utopia-i-myself-call-it-REALITY.gif" /><br>
+</p>
+
 <p align="center">
   <img src="neuromancer-b&w-fading.gif" />
 <em>“The sky above the port was the colour of television, tuned to a dead channel.” - "<a href="https://en.wikipedia.org/wiki/Neuromancer">William Gibson</a>" (1984).</em>
 </p>
-
 
 
 <!--
@@ -24,6 +24,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+```Leet
+Geek 15 4 mindset,  
+Cyberpunk 15 7h47 0f Soul...   
+0f 4 world  w17h0u7 limits 02 boundaries !!  
+50m3 call 17 UTOPIA, 1 myself call 17 REALITY.
+```
+
 > “Tell me how you read and I'll tell you who you are.”
 ### My All-Time Favourite SF Books
 - Neuromancer - William Gibson
