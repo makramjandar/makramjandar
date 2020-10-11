@@ -5,10 +5,9 @@ Cyberpunk 15 7h47 0f Soul...
 50m3 call 17 UTOPIA, 1 myself call 17 REALITY.
 ```
 <p align="center">
-  <img src="Neuromancer?raw=true" />
+  <img src="neuromancer.jpg" />
 <em>“The sky above the port was the colour of television, tuned to a dead channel.” - "<a href="https://en.wikipedia.org/wiki/Neuromancer">William Gibson</a>" (1984).</em>
 </p>
-
 
 <!--
 **makramjandar/makramjandar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
