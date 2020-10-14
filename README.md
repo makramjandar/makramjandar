@@ -5,10 +5,19 @@
 
 <p align="right">
   <img src="neuromancer-b&w-fading.gif" />
-<em>“The sky above the port was the colour of television, tuned to a dead channel.”<br>"<a href="https://en.wikipedia.org/wiki/Neuromancer">William Gibson</a>" (1984).</em>
+<em>“The sky above the port was the colour of television, tuned to a dead channel.”<br><a href="https://en.wikipedia.org/wiki/Neuromancer">William Gibson</a>, <b><blink>1984</blink></b></em>
 </p>  
   
-💬 Ask me about ...
+💬 Ask me about ...  
+<sup><sub>“If you can feel that staying human is worth while, even when it can't have any result whatever, you've beaten them.” George Orwell, <blink><b>1984</b></blink></sup></sub>
+
+
+
+
+
+
+
+
 
 <!--
 **makramjandar/makramjandar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
