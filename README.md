@@ -1,8 +1,8 @@
 <p align="left">
-  &nbsp;&nbsp;<img width="200" height="20" src="1-geek-is-a-mindset.gif" /><img width="250" height="25" src="2-cyberpunk-is-that-of-soul.gif" /><br>
-  <img width="300" height="30" src="3-of-a-world-without-limits-or-boundaries.gif" /><img width="350" height="35" src="4-some-call-it-utopia-i-myself-call-it-REALITY.gif" />
+  💬  &nbsp;&nbsp;<img width="200" height="15" src="1-geek-is-a-mindset.gif" /><img width="250" height="15" src="2-cyberpunk-is-that-of-soul.gif" /><br>
+  <img width="300" height="20" src="3-of-a-world-without-limits-or-boundaries.gif" /><img width="350" height="20" src="4-some-call-it-utopia-i-myself-call-it-REALITY.gif" />
 </p>
-💬
+
 <p align="right">
   <img src="neuromancer-b&w-fading.gif" />
 <em>“The sky above the port was the colour of television, tuned to a dead channel.”<br><a href="https://en.wikipedia.org/wiki/Neuromancer">William Gibson</a>, <b><blink>1984</blink></b></em>
